@@ -24,14 +24,14 @@ This project analyzes the customer journey of an e-commerce platform—from the 
 
 ## Key Features & Visualizations
 
-### 1. Comprehensive Funnel Analysis (Plotly)
+### 1. Comprehensive Funnel Analysis using Plotly
 A 4-pane interactive dashboard showing:
 * **Funnel Conversion Rates**: Total sessions reaching each stage.
 * **Stage-to-Stage Drop-off**: Percentage of users lost at each step.
 * **Revenue by Stage**: Total financial value associated with sessions reaching specific funnel depths.
 * **Average Session Duration**: Insights into user engagement during different stages of the purchase intent.
 
-### 2. Daily & Hourly Performance (Matplotlib)
+### 2. Daily & Hourly Performance using Matplotlib
 * **Traffic Trends**: A line chart showing unique `Session_ID` counts over a 30-day period.
 * **Conversion Heat**: Bar charts showing which hours of the day yield the highest conversion rates.
 
