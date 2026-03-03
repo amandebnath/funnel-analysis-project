@@ -4,10 +4,10 @@
 This project analyzes the customer journey of an e-commerce platform—from the initial landing (Browse) to the final transaction (Purchase)—to identify where potential customers drop off. By processing a synthetic dataset of **Session IDs** and **User IDs**, the project provides a comprehensive look at conversion rates, revenue attribution, and temporal session patterns. 
 
 **Key Objectives:**
-* **Quantify Conversion:** Measure the efficiency of the marketing funnel across four key stages: Browse, Search, Add to Cart, and Purchase.
-* **Identify Friction:** Pinpoint specific stages with the highest "Drop-off Rates" to suggest UI/UX or marketing improvements.
-* **Revenue Correlation:** Analyze how session duration and time-of-day impact total revenue and conversion likelihood.
-* **Data-Driven Trends:** Provide 30-day performance trends to help stakeholders understand traffic fluctuations and purchase behavior.
+* **Quantify Conversion:** Measure the efficiency of the marketing funnel across four key stages: Browse, Search, Add to Cart, and Purchase
+* **Identify Friction:** Pinpoint specific stages with the highest "Drop-off Rates" to suggest UI/UX or marketing improvements
+* **Revenue Correlation:** Analyze how session duration and time-of-day impact total revenue and conversion likelihood
+* **Data-Driven Trends:** Provide 30-day performance trends to help stakeholders understand traffic fluctuations and purchase behavior
 
 
 ---
